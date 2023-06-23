@@ -15,7 +15,7 @@ The app has a demo version without back-end integration deployed on Vercel, you 
 
 - Solid authentication scheme using JWT;
 
-- Responsive layout and design that follows UX best practices;
+- Responsive layout for all devices and design that follows UX best practices;
 
 - Creation of productivity profiles with scheduling flexibility, whether for specific intervals, weekdays, or weekends (for example, set a goal to study 5 hours per day during the month of July);
 
@@ -39,6 +39,10 @@ The app has a demo version without back-end integration deployed on Vercel, you 
 
 ![Create page](./images/profiles.png 'Profile create page')
 ![Preset tasks page](./images/tasks.png 'Profile preset tasks page')
+
+### FAQs
+
+![FAQs page](./images/faqs.png 'FAQs page')
 
 ## UI/UX Features
 
