@@ -56,4 +56,5 @@ The app has a demo version without back-end integration deployed on Vercel, you 
 
 ### Responsive layouts for mobile devices
 
-![Responsive layouts](./images/profiles-mobile.png 'Profile page - mobile view')
+![Responsive profile layout](./images/profiles-mobile.png 'Profile page - mobile view')
+![Responsive metrics layout](./images/metrics-mobile.png 'Metrics page - mobile view')

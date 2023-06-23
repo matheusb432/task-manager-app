@@ -40,6 +40,15 @@ O aplicativo possui uma versão de demonstração sem integração de back-end, 
 
 ## Funcionalidades de UI/UX
 
+### Validação reativa de formulários
+
 ![Validação reativa de formulários](./images/reactive-validation.png 'Validação reativa de formulários')
+
+### Prevenção de alterações não salvas
+
 ![Prevenção de alterações não salvas](./images/unsaved-changes-dialog.png 'Modal de prevenção de alterações não salvas')
-![Layouts responsivos](./images/profiles-mobile.png 'Tela de perfis em dispositivos móveis')
+
+### Layouts responsivos
+
+![Layout responsivo de perfis](./images/profiles-mobile.png 'Tela de perfis em dispositivos móveis')
+![Layout responsivo de métricas](./images/metrics-mobile.png 'Tela de métricas em dispositivos móveis')
