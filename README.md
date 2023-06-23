@@ -46,6 +46,14 @@ The app has a demo version without back-end integration deployed on Vercel, you 
 
 ## UI/UX Features
 
+### Reactive form validation
+
 ![Reactive form validation](./images/reactive-validation.png 'Reactive form validation')
+
+### Route guards to prevent unsaved changes
+
 ![Route guards to prevent unsaved changes](./images/unsaved-changes-dialog.png 'Unsaved changes dialog')
+
+### Responsive layouts for mobile devices
+
 ![Responsive layouts](./images/profiles-mobile.png 'Profile page - mobile view')
